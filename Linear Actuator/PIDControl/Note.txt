@@ -1,0 +1,13 @@
+PIDControl SerialMonitor CMD
+
+Serial Setting : 
+baudrate 115200, Newline
+
+CMD list
+s + value : PWM直接輸出		範圍 : -250 ~ 250, 單位：duty cycle
+
+p + value : STEP位置控制		範圍 : 慢馬達+-1250, 快馬達+-330 單位：counts
+
+w : sin波位置控制，			預設 : 振幅=AMPLITUDE_DEFAULT counts, 週期=PERIOD_DEFAULT_MS ms
+wf + value : sin波週期調整，	單位 : ms
+wa + value : sin波振幅調整，	單位 : counts

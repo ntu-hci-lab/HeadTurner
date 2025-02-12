@@ -1,0 +1,11 @@
+適用於使用多個語言套件之使用者的重要資訊
+
+適用於：
+ - 安裝多個語言套件並保留以下預設樣板安裝位置的任何人：C:\Users\Public\Documents\Autodesk\Inventor release year\Templates。
+ - 在以下資料夾中儲存和使用自訂樣板的任何人：C:\Users\Public\Documents\Autodesk\Inventor release year\Templates。
+
+Inventor 的多個版本有支援的語言套件。這樣，您可以在單一 Inventor 安裝中安裝多個語言，並透過「開始」功能表捷徑切換語言 (使用 /language 參數)。  
+
+雖然語言套件會安裝本土化的樣板檔，但是啟動不同語言版本的 Inventor 實際上並不會變更依預設使用的樣板。 
+
+在 Inventor 2020 中，會安裝所有語言套件並以相同方式處理。不需要再將樣板複製到父系資料夾，因為變更語言時會更新樣板檔路徑。這樣同樣簡化了預設樣板和自訂樣板的使用和維護。

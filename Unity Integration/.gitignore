@@ -1,0 +1,24 @@
+# unity ignore dir
+/[Bb]in/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+Logs/
+
+# unity ignore file
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.meta
+*.tmp
+
+# need include the meta of file
+!*.*.meta
+
+
+# development environment ignore
+.vs/
+.vscode/
+.vsconfig

@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 03c515b391cd4e04fa8fcfbe65d6511f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Twins_ui_ani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d839837ccfb1c40bf9722202d8190b
+      internalID: 43143519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_1
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4608
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e54b8f09a931ff468d5edc6e4dd4ff6
+      internalID: -1806463092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_2
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 4608
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf66201cbb6c884f9dddbdd61a37e21
+      internalID: -688965779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_3
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 4608
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2677ba20c45e88c419dc5180097a5317
+      internalID: 210665715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_4
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 4608
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b6c7e74f26574aaa95fb571b741e2
+      internalID: -834359601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_5
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 4608
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb588c8995cd2e4796ab726fadfa5a7
+      internalID: 34466434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4690560350424daac78d6fc8c2ffb
+      internalID: -276573903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_7
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3072
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff19b7f07c70e6458a7d481ad50ba4b
+      internalID: 568329297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_8
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 3072
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1bba9b29330474db02e61a9adcabae
+      internalID: 1627752933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_9
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 3072
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dfcd0ed1ba9944ebdd449239c59efa
+      internalID: -986705228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_10
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 3072
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7b3e351424434d8b4bf002298b383
+      internalID: 1775720232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_11
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 3072
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c3906b5cfda248aa8d1627fb4a61d
+      internalID: 514660041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b664d51f3938bf4dab8657046702331
+      internalID: 499316847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_13
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1536
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817099985c1da364eafd37a7a5b9687c
+      internalID: 923019857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_14
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1536
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8db3f660febe46856784839a9e7a3
+      internalID: -81167313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_15
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 1536
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a215075071fde043a4c34ef873ae1fe
+      internalID: 248693743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_16
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 1536
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cc37fb039132e45a9a88be96002187
+      internalID: 402861475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_17
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 1536
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab10e133bbd46847988dd0128381310
+      internalID: -652561707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a07469f659d54d95bdc870400a7e4
+      internalID: -867277283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_19
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 0
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa24e5732e5511244ae0a8a13a7e0dcc
+      internalID: -1886715978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_20
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 0
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3cc3d180c2ff43b2643dc09233600
+      internalID: 1050226839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_21
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 0
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d0914ab8cf7744927e6d60c4e3a6a
+      internalID: 1972745333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_22
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 0
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8511fc68b0cc48b1fbde186d726d3
+      internalID: -2080844884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twins_ui_ani_23
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 0
+        width: 1475
+        height: 1536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f7124cd6f9c64c9b44c5dc855849f
+      internalID: 953748251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d61e8ae0e4a719e4e8195ad3d3c89a44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Twins_ui_ani_0: 43143519
+      Twins_ui_ani_1: -1806463092
+      Twins_ui_ani_10: 1775720232
+      Twins_ui_ani_11: 514660041
+      Twins_ui_ani_12: 499316847
+      Twins_ui_ani_13: 923019857
+      Twins_ui_ani_14: -81167313
+      Twins_ui_ani_15: 248693743
+      Twins_ui_ani_16: 402861475
+      Twins_ui_ani_17: -652561707
+      Twins_ui_ani_18: -867277283
+      Twins_ui_ani_19: -1886715978
+      Twins_ui_ani_2: -688965779
+      Twins_ui_ani_20: 1050226839
+      Twins_ui_ani_21: 1972745333
+      Twins_ui_ani_22: -2080844884
+      Twins_ui_ani_23: 953748251
+      Twins_ui_ani_3: 210665715
+      Twins_ui_ani_4: -834359601
+      Twins_ui_ani_5: 34466434
+      Twins_ui_ani_6: -276573903
+      Twins_ui_ani_7: 568329297
+      Twins_ui_ani_8: 1627752933
+      Twins_ui_ani_9: -986705228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
