@@ -1,5 +1,6 @@
 # HeadTurner
 ## Enhancing Viewing Range and Comfort of using Virtual and Mixed-Reality Headsets while Lying Down via Assisted Shoulder and Head Actuation ([ACM CHI 2025](https://dl.acm.org/doi/10.1145/3706598.3714214#fn1))
+![Teaser Figure](./Figures_For_Readme/HeroImage.png)
 
 ---
 ## Overview
