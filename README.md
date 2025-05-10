@@ -6,7 +6,12 @@ In the teaser figure, we demonstrate the viewing range in (A) standing posture, 
 
 ---
 ## Overview
-HeadTurner is an innovative system designed to improve comfort and viewing range for users of virtual and mixed reality (VR/MR) headsets, such as the Apple Vision Pro and Meta Quest, when used in reclined positions. As VR/MR technology evolves to accommodate various postures, HeadTurner addresses the ergonomic challenges associated with limited head and shoulder mobility while lying down.
+HeadTurner is an innovative system designed to improve comfort and viewing range for users of virtual and mixed reality (VR/MR) headsets, such as the Apple Vision Pro and Meta Quest, when used in reclined positions. As VR/MR technology evolves to accommodate various postures, HeadTurner addresses the ergonomic challenges associated with limited head and shoulder mobility while lying down. (you can watch the 1-min demo video by clickng the video preview below)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xwc27_D9JpM">
+    <img src="./Figures_For_Readme/Ending.gif" alt="HeadTurner Video Figure"/>
+  </a>
+</p>
 
 ---
 ## Key Features
